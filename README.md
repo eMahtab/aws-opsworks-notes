@@ -12,6 +12,9 @@ https://docs.google.com/document/d/1FoN2RwbkF5ve-MRSOUdL3076L97B2ZynnPebDwGMoEw/
 # OpsWorks - Demo
 https://docs.google.com/document/d/1B_NeTQjIgECSs1AQm9lj_HgwHDafxb1LHHl-zHf15tA/edit?usp=sharing
 
+# OpsWorks Stacks Monitoring
+https://docs.google.com/document/d/13YjbcBlR3PZfnHqJNTkdVbuzuwcRHd8gcGNBSa57s54/edit?usp=sharing
+
 # OpsWorks - Updating Custom Cookbooks
 https://docs.google.com/document/d/1H2Bn3NILPT64SveDIaSIVeimcspdDdWUp66mh86-n2E/edit?usp=sharing
 
