@@ -12,7 +12,7 @@ https://docs.google.com/document/d/1FoN2RwbkF5ve-MRSOUdL3076L97B2ZynnPebDwGMoEw/
 # OpsWorks - Demo
 https://docs.google.com/document/d/1B_NeTQjIgECSs1AQm9lj_HgwHDafxb1LHHl-zHf15tA/edit?usp=sharing
 
-# OpsWorks Stack with MySQL Layer
+# OpsWorks Stack with MySQL Layer - Demo
 https://docs.google.com/document/d/1xQVk89ZtDhalmcTx08bTfx9syLmsF8Jw5vHY8a3wQCs/edit?usp=sharing
 
 # OpsWorks Stacks Monitoring
