@@ -3,22 +3,22 @@
 # Getting Started with AWS OpsWorks :thumbsup:
 https://docs.google.com/document/d/1aGbtBl33jqt35fCMoNYSAd6FqRQSz-Zlh0cMGpo86PM/edit?usp=sharing
 
-# OpsWorks Stacks Lifecycle Events
+# OpsWorks Stacks Lifecycle Events :thumbsup:
 https://docs.google.com/document/d/1SjqHvGZlKKbAQC9RYLBf7L1jksDyKNR9KfZi1fVGfSU/edit?usp=sharing
 
-# OpsWorks - Run Command
+# OpsWorks - Run Command :thumbsup:
 https://docs.google.com/document/d/1FoN2RwbkF5ve-MRSOUdL3076L97B2ZynnPebDwGMoEw/edit?usp=sharing
 
-# OpsWorks - Demo
+# OpsWorks - Demo :thumbsup:
 https://docs.google.com/document/d/1B_NeTQjIgECSs1AQm9lj_HgwHDafxb1LHHl-zHf15tA/edit?usp=sharing
 
-# OpsWorks Stack with MySQL Layer - Demo
+# OpsWorks Stack with MySQL Layer - Demo :thumbsup:
 https://docs.google.com/document/d/1xQVk89ZtDhalmcTx08bTfx9syLmsF8Jw5vHY8a3wQCs/edit?usp=sharing
 
-# OpsWorks Stacks Monitoring
+# OpsWorks Stacks Monitoring :thumbsup:
 https://docs.google.com/document/d/13YjbcBlR3PZfnHqJNTkdVbuzuwcRHd8gcGNBSa57s54/edit?usp=sharing
 
-# OpsWorks - Updating Custom Cookbooks
+# OpsWorks - Updating Custom Cookbooks :thumbsup:
 https://docs.google.com/document/d/1H2Bn3NILPT64SveDIaSIVeimcspdDdWUp66mh86-n2E/edit?usp=sharing
 
 # AWS OpsWorks - Data Bags :thumbsup:
